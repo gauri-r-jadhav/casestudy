@@ -1,0 +1,22 @@
+Business Entities
+
+Employee:- 
+employee ID, name, address, contact information, job title, salary
+
+Department:-
+department ID, name, location, manager
+
+Position:-
+position ID, title, description, and possibly salary information.
+
+Salary:-
+salary ID, employee ID, salary amount, start date, and end date.
+
+Leave:-
+leave ID, employee ID, leave type (sick leave, vacation, etc.), start date, end date
+
+Attendance:- 
+attendance ID, employee ID, date, time in, time out.
+
+Performance Review:-  
+review ID, employee ID, review date, reviewer's name, performance ratings

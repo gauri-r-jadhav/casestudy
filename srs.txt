@@ -1,0 +1,34 @@
+Software Requirements Specification (SRS) Document: Online Project management system
+
+1. Introduction
+   1.1 Purpose
+   The purpose of this document is to provide a detailed description of the requirements for the Employee Management System The purpose of this document is to provide a detailed description of the requirements for the Project Management System. It outlines the functional requirements of the system.
+
+   1.2 Scope
+   The Project Management System is a web-based application that help in managing projects within an organization.  This system will help employees, project managers, delivery managers and stakeholders to update about executions of projects going on in the organization. All beneficiaries will be able to manage resources, time effectively.    
+
+2. Functional Requirements
+   2.1 Employee Information Management
+      - Administrators should be able to add, update, and delete employee records.
+      - Each employee record should include details such as name, employee ID, contact information, designation, and department.
+      - The system should store and display employee photos, if available.
+
+   2.2 Attendance Tracking
+      - Employees should be able to mark their attendance (clock in/out) using a time tracking feature.
+      - The system should calculate the total working hours and maintain a record of daily, weekly, and monthly attendance.
+
+   2.3 Leave Management
+      - Employees should be able to submit leave requests for approval.
+      - The system should allow managers to review and approve/reject leave requests.
+      - The system should maintain a record of employee leave history.
+
+   2.4 Employee Reports
+      - The system should generate reports on employee attendance, leaves, and other relevant information.
+      - Reports may include employee performance, attendance summary, leave balance, etc.
+
+   2.5 Notifications and Reminders
+      - The system should send notifications and reminders to employees for pending leave requests, upcoming meetings, or other important events.
+      - Notifications can be delivered via email, SMS, or through the system's user interface.
+
+
+
