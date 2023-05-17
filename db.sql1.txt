@@ -1,0 +1,15 @@
+create table Employee(
+empId int primary key,
+name varchar(20),
+address varchar(20),
+contact_info int,
+job varchar(20),
+salary double(9,2)
+)
+
+create table department(
+deptid int primary key,
+name varchar(20),
+location varchar(20),
+manager varchar(20)
+)
